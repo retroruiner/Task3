@@ -78,7 +78,7 @@ public class Homework3 {
         }
     }
 
-    //make random number
+    //makes random number
     public static int randomRange(int range) {
         Random rand = new Random();
         return rand.nextInt(range);
